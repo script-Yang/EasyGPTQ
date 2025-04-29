@@ -1,5 +1,6 @@
 # EasyGPTQ
-A simple example of using GPTQ# Papers
+A simple example of using GPTQ
+# Papers
 GPTQ ---> [``GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers``](https://arxiv.org/abs/2210.17323)
 
 QuaRot ---> [``QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs``](https://arxiv.org/abs/2404.00456)
