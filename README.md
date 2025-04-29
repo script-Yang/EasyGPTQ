@@ -41,7 +41,7 @@ For example, w_bit can be 16/8/4 bits
 Execute prefill inference to provide calibration data for GPTQ
 
 # Usage
-```py
+```bash
 python main.py
 ```
 
