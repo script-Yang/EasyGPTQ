@@ -1,5 +1,5 @@
 # EasyGPTQ
-A simple example of using GPTQ
+A simple self-implemented example demonstrating both GPTQ and Quarot, a custom quantization method designed for efficient inference of LLMs.
 # Papers
 GPTQ ---> [``GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers``](https://arxiv.org/abs/2210.17323)
 
